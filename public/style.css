@@ -1,0 +1,24 @@
+body{
+    background: no-repeat center / cover
+      url("./waterfall.jpg");
+      min-height: 100vh;
+}
+.container{
+    margin-top: 50px;
+   
+}
+h2{
+   color: aliceblue;
+   text-align: center;
+  
+}
+
+label{
+    color:aliceblue
+}
+
+.well{
+    
+    border: none;
+    border-radius: 15px/15px;
+}
