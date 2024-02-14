@@ -12,6 +12,11 @@ h2{
    text-align: center;
   
 }
+h3{
+    color: aliceblue;
+    text-align: center; 
+    
+}
 
 label{
     color:aliceblue
@@ -21,4 +26,9 @@ label{
     
     border: none;
     border-radius: 15px/15px;
+}
+.image{
+    background: no-repeat center / cover
+      url("./rainforest-4350845_640.jpg");
+      min-height: 100vh;
 }
